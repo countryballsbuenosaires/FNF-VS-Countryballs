@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ecuadorsprites.png">
+  <SubTexture name="0007_10-removebg-preview" x="0" y="0" width="480" height="360"/>
+  <SubTexture name="0006_10-removebg-preview" x="480" y="0" width="480" height="360"/>
+  <SubTexture name="0005_10-removebg-preview" x="960" y="0" width="480" height="360"/>
+  <SubTexture name="0004_10-removebg-preview" x="1440" y="0" width="480" height="360"/>
+  <SubTexture name="0003_10-removebg-preview" x="1920" y="0" width="480" height="360"/>
+  <SubTexture name="0002_10-removebg-preview" x="0" y="360" width="480" height="360"/>
+  <SubTexture name="0001_0-removebg-preview" x="480" y="360" width="480" height="360"/>
+  <SubTexture name="0008_10" x="960" y="360" width="480" height="360"/>
+  <SubTexture name="0009_10" x="1440" y="360" width="480" height="360"/>
+  <SubTexture name="0010_10" x="1920" y="360" width="480" height="360"/>
+  <SubTexture name="0010_10" x="0" y="720" width="480" height="360"/>
+  <SubTexture name="0011_10" x="480" y="720" width="480" height="360"/>
+  <SubTexture name="0012_10" x="960" y="720" width="480" height="360"/>
+  <SubTexture name="0013_10" x="1440" y="720" width="480" height="360"/>
+  <SubTexture name="0014_10" x="1920" y="720" width="480" height="360"/>
+  <SubTexture name="0015_10" x="0" y="1080" width="480" height="360"/>
+  <SubTexture name="0016_10" x="480" y="1080" width="480" height="360"/>
+  <SubTexture name="0017_10" x="960" y="1080" width="480" height="360"/>
+  <SubTexture name="0018_10" x="1440" y="1080" width="480" height="360"/>
+  <SubTexture name="0019_10" x="1920" y="1080" width="480" height="360"/>
+  <SubTexture name="0020_10" x="0" y="1440" width="480" height="360"/>
+  <SubTexture name="0021_10" x="480" y="1440" width="480" height="360"/>
+</TextureAtlas>
